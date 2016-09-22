@@ -1,2 +1,2 @@
 # wifi-clone-army
-Remotely run scripts on multiple machines
+Python script to remotely run scripts on multiple machines using the Paramiko library
